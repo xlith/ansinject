@@ -5,7 +5,7 @@ Top level module for ansinject.
 from __future__ import annotations
 
 __app_name__ = 'ansinject'
-__version__ = '0.0.0'
+__version__ = '0.1.0'
 
 (
     SUCCESS,

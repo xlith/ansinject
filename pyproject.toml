@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ansinject"
-version = "0.0.0"
+version = "0.1.0"
 description = "Inject network security config xml into an Android APK"
 readme = "README.md"
 authors = [{ name = "Civan Yavuzsen", email = "civanyavuzsen@gmail.com" }]
@@ -66,7 +66,7 @@ Homepage = "https://github.com/xlith/ansinject"
 ansinject = "ansinject.__main__:main"
 
 [tool.bumpver]
-current_version = "0.0.0"
+current_version = "0.1.0"
 version_pattern = "MAJOR.MINOR.PATCH"
 commit_message = "Bump version {old_version} -> {new_version}"
 commit = true
