@@ -8,7 +8,10 @@ Image by <a href="https://pixabay.com/users/madartzgraphics-3575871/?utm_source=
 
 ## Android Network Security Config Injector
 
-This tool is simple collection of other tools which can inject a network security config into an Android APK. Mainly it's sole pupose is making it easier to use the tools in the requirements list below with line of command.
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/ansinject"> <img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/ansinject"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/xlith/ansinject"> <img alt="PyPI - License" src="https://img.shields.io/pypi/l/ansinject"> <img alt="PyPI" src="https://img.shields.io/pypi/v/ansinject"> <img alt="PyPI - Format" src="https://img.shields.io/pypi/format/ansinject"> <img alt="PyPI - Status" src="https://img.shields.io/pypi/status/ansinject">
+
+
+This tool is simply an easier way to use some collection of other tools which can inject a network security config into an Android APK. Mainly it's sole pupose is making it easier to use the tools in the requirements list below with one line of command.
 
 This is useful when you want to test an app that uses HTTPS but you don't have a valid certificate. This tool will allow you to bypass the certificate check.
 
