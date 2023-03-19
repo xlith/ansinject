@@ -1,0 +1,11 @@
+**/.vscode
+**/.coverage
+**/htmlcov
+**/.pytest_cache
+**/.env
+**/__pycache__
+**/*.pyc
+**/.idea
+**/*.egg-info
+**/dist
+**/.venv
