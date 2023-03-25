@@ -65,6 +65,9 @@ Homepage = "https://github.com/xlith/ansinject"
 [project.scripts]
 ansinject = "ansinject.__main__:main"
 
+[tool.setuptools.packages.find]
+where = ["."]
+
 [tool.bumpver]
 current_version = "0.1.0"
 version_pattern = "MAJOR.MINOR.PATCH"
